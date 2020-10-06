@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "514C2ED9-01EA-4479-88D2-2FA20A65CD70"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92DD4ABB-F0C6-4F86-8D21-80D925C5512F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CardGame/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "92DD4ABB-F0C6-4F86-8D21-80D925C5512F - 5f0d833b61335f02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardGame.ViewController.val2.getter : Swift.Int"
+                  moduleName = "CardGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zoe/Documents/GitHub/CardGame/CardGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "92DD4ABB-F0C6-4F86-8D21-80D925C5512F - 671f3dffb594a316"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardGame.ViewController.val2.setter : Swift.Int"
+                  moduleName = "CardGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zoe/Documents/GitHub/CardGame/CardGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "118">
+               </Location>
+               <Location
+                  uuid = "92DD4ABB-F0C6-4F86-8D21-80D925C5512F - acae55e2b5320cd4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardGame.ViewController.val2.modify : Swift.Int"
+                  moduleName = "CardGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zoe/Documents/GitHub/CardGame/CardGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "92DD4ABB-F0C6-4F86-8D21-80D925C5512F - 6cea1f027293be16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardGame.ViewController.val2.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CardGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zoe/Documents/GitHub/CardGame/CardGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "92DD4ABB-F0C6-4F86-8D21-80D925C5512F - 2f2a06ea5325a32a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardGame.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CardGame.ViewController"
+                  moduleName = "CardGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zoe/Documents/GitHub/CardGame/CardGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "3075">
+               </Location>
+               <Location
+                  uuid = "92DD4ABB-F0C6-4F86-8D21-80D925C5512F - ec35a5afd4a6eb54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardGame.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CardGame.ViewController&gt;"
+                  moduleName = "CardGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zoe/Documents/GitHub/CardGame/CardGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "3016">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43B03DE7-F2E3-49D7-9D88-2E1F5584942B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CardGame/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4CD94BB5-E576-49AA-A2DA-03CD53BC9EFB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CardGame/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "4CD94BB5-E576-49AA-A2DA-03CD53BC9EFB - 2f2a06ea5325a0f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardGame.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CardGame.ViewController"
+                  moduleName = "CardGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zoe/Documents/GitHub/CardGame/CardGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "2128">
+               </Location>
+               <Location
+                  uuid = "4CD94BB5-E576-49AA-A2DA-03CD53BC9EFB - ec35a5afd4a6e88e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardGame.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CardGame.ViewController&gt;"
+                  moduleName = "CardGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zoe/Documents/GitHub/CardGame/CardGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "2069">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
