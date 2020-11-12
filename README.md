@@ -1,2 +1,2 @@
 # INFO6350-SmartPhone
-Assignments of INFO6350
+The first assignments of INFO6350
